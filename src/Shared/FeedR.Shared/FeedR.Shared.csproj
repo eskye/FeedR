@@ -13,7 +13,7 @@
     <ItemGroup>
       <PackageReference Include="DotPulsar" Version="2.0.1" />
       <PackageReference Include="Microsoft.Extensions.Http.Polly" Version="6.0.1" />
-      <PackageReference Include="StackExchange.Redis" Version="2.2.88" />
+      <PackageReference Include="StackExchange.Redis" Version="2.6.122" />
     </ItemGroup>
 
 </Project>
